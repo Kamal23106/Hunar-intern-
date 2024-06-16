@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us - Online Course Website</title>
+    <link rel="stylesheet" href="about.css">
+     <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <img src="images/logo.png" alt="Logo" class="logo">
+            <nav>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="about.html">About Us</a></li>
+                    <li><a href="courses.html">Courses</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <main>
+        <section class="about-intro">
+            <div class="container">
+                <h1>About Us</h1>
+                <p>Welcome to our online course platform, where learning meets excellence. Discover who we are and what drives us to provide top-notch education to learners around the world.</p>
+            </div>
+        </section>
+        <section class="our-mission">
+            <div class="container">
+                <h2>Our Mission</h2>
+                <p>Our mission is to empower individuals with the knowledge and skills they need to succeed in today's fast-paced world. We are committed to delivering high-quality, accessible education that inspires and transforms lives.</p>
+            </div>
+        </section>
+        <section class="our-team">
+            <div class="container">
+                <h2>Meet Our Team</h2>
+                <div class="team-list">
+                    <article class="team-member">
+                        <img src="images/instructor.png" alt="Team Member 1">
+                        <h3>John Doe</h3>
+                        <p>Founder & CEO</p>
+                        <p>John is a seasoned educator with over 20 years of experience in the field. He is passionate about making education accessible to everyone.</p>
+                    </article>
+                    <article class="team-member">
+                        <img src="images/instructor2.png" alt="Team Member 2">
+                        <h3>Jane Smith</h3>
+                        <p>Chief Academic Officer</p>
+                        <p>Jane oversees our curriculum development, ensuring that our courses are of the highest quality and meet the needs of our learners.</p>
+                    </article>
+                    <article class="team-member">
+                        <img src="images/instructor3.png" alt="Team Member 3">
+                        <h3>Emily Johnson</h3>
+                        <p>Director of Marketing</p>
+                        <p>Emily leads our marketing efforts, helping to spread the word about our courses and attract learners from around the globe.</p>
+                    </article>
+                </div>
+            </div>
+        </section>
+        <section class="testimonials">
+            <div class="container">
+                <h2>What Our Students Say</h2>
+                <div class="testimonial-list">
+                    <article class="testimonial">
+                        <p>"This platform has completely transformed my career. The courses are top-notch and the instructors are incredibly knowledgeable."</p>
+                        <p>- Sarah Williams</p>
+                    </article>
+                    <article class="testimonial">
+                        <p>"I love the flexibility and quality of the courses offered. I've learned so much and feel more confident in my skills."</p>
+                        <p>- Michael Brown</p>
+                    </article>
+                    <article class="testimonial">
+                        <p>"The support from the team is amazing. They are always there to help and provide guidance."</p>
+                        <p>- Jessica Lee</p>
+                    </article>
+                </div>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Online Course Website. All rights reserved.</p>
+            <p>Follow us on:
+                <a href="">Facebook</a> |
+                <a href="#">Twitter</a> |
+                <a href="#">Instagram</a>
+            </p>
+        </div>
+    </footer>
+</body>
+</html>
