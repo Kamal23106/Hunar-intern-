@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Personal Homepage</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #fff;
+        }
+        #container {
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            background-color: #ff0000;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #0000ff;
+        }
+        p {
+            color: #fff;
+            line-height: 1.8;
+        }
+        a {
+            color: #ffff00;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div id="container">
+        <h1> <center> <u> MY Introduction </u> </center> </h1>
+        <p> <center> <b><u>Welcome to my personal homepage! </b> </u> </center> </p>
+        <p>My name is Kamal Kant Sharma.<br> I'M from Mathura Uttar Pradesh . I have done one year ADCA course in computer. And currently As a senior undergraduate at Sanskriti University Mathura, I am pursuing major in Bachelor of Computer Science in Artificial Intelligence And Machine Learning . Skilled in C, Python, HTML, CSS and Web development, I thrive on exploring new tech stacks. My passion for data fuels my interest in Programming , owing to the visualization.<br>My hobbies are playing football and reading general knowledge books.</p>
+        <p>Connect with me:</p>
+        <ul>
+            <li><a href="https://www.linkedin.com/in/kamal-kant-sharma-0b138b30a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">LinkedIn</a></li>
+            <li><a href="https://wa.link/2wslzt" target="_blank">WhatsApp</a></li>
+            <li><a href="mailto:kamalkant23105@gmail.com?">Email</a></li>
+            <li><a href="tel:+7078236855">Contact on call</a></li> <br />
+        </ul>
+    </div>
+</body>
+</html>
